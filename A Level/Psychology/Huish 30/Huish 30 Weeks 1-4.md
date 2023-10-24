@@ -13,7 +13,7 @@ She could have mentioned how introspection involved breaking down our complex me
 
 Wundt had a pioneering role in the development of psychology, opening the first psychology laboratory. This signified how Wundt changed psychology from a branch of philosophy to the beginnings of an empirical science. He founded an approach to psychology known as structuralism which broke down consciousness into its most basic elements via technique called introspection. Whilst introspection is unfalsifiable as it relies on individuals observing their own thoughts, leading to subjectivity. This means that is has both low validity and reliability, leading to other approaches becoming prominent in psychology. However the reductionist view that Wundt pioneered with structuralism would continue with the behaviourist and cognitive and approaches to psychology, meaning that Wundt had a fundamental role in the development of psychology.
 
-###### Q4: Briefly outline how Pavlov investigated classical conditioning.
+###### Q4: Briefly outline how Pavlov investigated [[Classical Conditioning]].
 
 Pavlov investigated classical conditioning by conducting experiments with dogs. He paired a neutral stimulus (for example a bell though when he first discovered classical conditioning it was the sound of footsteps) with the unconditioned stimulus of food. This caused the dogs to associate the bell with the food and would salivate from the sound of the bell alone even when no food was present. The bell becomes a conditioned stimulus and the salivation is a conditioned response.
 
