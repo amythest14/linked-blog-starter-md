@@ -28,4 +28,3 @@ person1.Age = 30;
 
 person1.SayHello(); // This will print "Hello, my name is John Doe and I am 30 years old."
 ```
-

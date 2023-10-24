@@ -24,4 +24,3 @@ Initially the balloon was a neutral stimulus but when paired with the unconditio
 ###### Q6: Explain how reinforcement might be used to encourage primary school children to pick up litter in the playground.
 
 The principles of operant conditioning could encourage them to pick up litter. A positive reinforcement system could be used where the children are given a reward like tokens that can be exchanged for sweets when they pick up litter. This reward reinforces the behaviour so they will continue to pick up the litter.
-

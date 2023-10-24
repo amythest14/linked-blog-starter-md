@@ -16,7 +16,7 @@ int age = 25;
 
 Variable names are case-sensitive, meaning `age` and `Age` are different variables. Variables are generally named in camel case, so the first word starts with lower case and following words start with capital letters such as `ageYears`. Variables cannot contain spaces.
 
-A new value can be assigned to an existing variable using the assignment operator (`=`).
+A new value can be assigned to an existing variable using the assignment operator "=".
 For example:
 
 ```cs
