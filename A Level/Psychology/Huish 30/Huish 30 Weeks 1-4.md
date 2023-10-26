@@ -24,3 +24,10 @@ Initially the balloon was a neutral stimulus but when paired with the unconditio
 ###### Q6: Explain how reinforcement might be used to encourage primary school children to pick up litter in the playground.
 
 The principles of operant conditioning could encourage them to pick up litter. A positive reinforcement system could be used where the children are given a reward like tokens that can be exchanged for sweets when they pick up litter. This reward reinforces the behaviour so they will continue to pick up the litter.
+
+###### Q7: Lily and Jemima have a pet rat, which usually hides in a corner when they try to take it out of its cage. They have tried different ways to stop the rat hiding, but so far without success. Use your knowledge of **two** types of reinforcement to suggest how Lily and Jemima could train their rat to come to the cage door when they open it.
+
+One type of reinforcement they could use is positive reinforcement. This is a type of reinforcement that Skinner used in his model of operant conditioning. It involves presenting a positive stimulus in response to the desired behaviour, encouraging this behaviour to continue as the subject has hopes of more reward. In Lily and Jemima's case this would involve rewarding the rat with food when the rat doesn't go into the corner. This way, the rat is conditioned to continue not going into the corner as this will get it presented with food. Another type of reinforcement they could use is negative reinforcement. Skinner defined negative reinforcement in his model of operant conditioning to be when behaviour is strengthened by removing an unpleasant stimulus. In this example this would involve removing something unpleasant from the rat when he comes out for the corner. For example playing a loud and unpleasant noise whenever the rat is out of the cage, which only gets turned down if the rat stays out of the corner.
+
+###### Q8: Outline Skinner's research into reinforcement.
+
