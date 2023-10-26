@@ -31,3 +31,12 @@ One type of reinforcement they could use is positive reinforcement. This is a ty
 
 ###### Q8: Outline Skinner's research into reinforcement.
 
+Skinner performed research into reinforcement by placing an animal such as a rat in a chamber known as a 'Skinner Box'. In some experiments food pellets would be dispensed when the rat performed a certain action such as pressing a button, so Skinner could measure whether behaviour was encouraged and thus repeated by the introduction of a positive stimulus. This was the basis of positive conditioning. Other versions had the rats getting electric shocks that were turned off when they did an action, investigating negative reinforcement.
+
+#### WEEK 2: SLT & THE COGNITIVE APPROACH
+
+###### Q1: Mr Benson is a primary school teacher. He has noticed that some of the children in his class push to the front of the queue when it is time to leave the classroom. Suggest how Mr Benson might use vicarious reinforcement to alter the behaviour of these children. Explain your answer with reference to social learning theory.
+
+Social learning theory says that watching a role model getting praised results in vicarious reinforcement and behaviour will be encouraged in the person watching. So Mr Benson could praise some of the children that do not push, and even reward them by giving them sweets or 'praise points'. This might work even better if he praised the more popular children in the class when they don't push as they would be seen as more of a role model to the other children.
+
+###### Q2: Grace’s room is always messy. Her older sister, Lily, keeps her room very tidy. The next time Lily tidies her room, the girls’ mother gives Lily five pounds. Using your knowledge of social learning theory, explain why Grace might be more likely to tidy her room in the future.
