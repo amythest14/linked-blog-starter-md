@@ -45,4 +45,4 @@ In social learning theory, people are described to imitate the actions of those 
 
 ###### Q3: Read the article below. ```Research by social learning theorists into gender development has shown that children learn many of their gender-related behaviours from others. There are many examples of children copying the behaviour of adults, such as a young girl trying on her mother’s make-up. Of course, there are many reasons why some adult behaviours or actions seen by children are not copied.``` Briefly explain what social learning theorists mean by *modelling* in relation to gender development. Refer to the article above in your answer.
 
-In social learning theory, modelling is the blah blah blah
+In social learning theory, modelling is the blah blah blah blah blah blah 
