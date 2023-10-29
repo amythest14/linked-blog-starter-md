@@ -1,7 +1,7 @@
 
 #### WEEK 1: WUNDT & THE BEHAVIOURIST APPROACH
 
-###### Q1: Outline Wundt’s method of introspection.
+###### Q1: Outline [[Wundt]]’s method of introspection.
 
 Wundt's method of introspection involved the examination of one's own conscious thoughts and emotions in response to a stimulus. To perform introspection, you had to be specially trained. He aimed to break conscious experiences down into their most basic elements.
 
@@ -35,10 +35,14 @@ Skinner performed research into reinforcement by placing an animal such as a rat
 
 #### WEEK 2: SLT & THE COGNITIVE APPROACH
 
-###### Q1: Mr Benson is a primary school teacher. He has noticed that some of the children in his class push to the front of the queue when it is time to leave the classroom. Suggest how Mr Benson might use vicarious reinforcement to alter the behaviour of these children. Explain your answer with reference to social learning theory.
+###### Q1: Mr Benson is a primary school teacher. He has noticed that some of the children in his class push to the front of the queue when it is time to leave the classroom. Suggest how Mr Benson might use vicarious reinforcement to alter the behaviour of these children. Explain your answer with reference to [[Social Learning Theory]].
 
 Social learning theory says that watching a role model getting praised results in vicarious reinforcement and behaviour will be encouraged in the person watching. So Mr Benson could praise some of the children that do not push, and even reward them by giving them sweets or 'praise points'. This might work even better if he praised the more popular children in the class when they don't push as they would be seen as more of a role model to the other children.
 
 ###### Q2: Grace’s room is always messy. Her older sister, Lily, keeps her room very tidy. The next time Lily tidies her room, the girls’ mother gives Lily five pounds. Using your knowledge of social learning theory, explain why Grace might be more likely to tidy her room in the future.
 
-In social learning theory, people are described to imitate the actions of those they observe being rewarded, called vicarious reinforcement. 
+In social learning theory, people are described to imitate the actions of those they observe being rewarded, called vicarious reinforcement. This was shown by the research of Albert Bandura with his [[Bobo Doll Study]] where children were seen to be more likely to imitate an adult praised for punching the doll than one who wasn't. In this example, since Grace has seen Lily been rewarded for tidying her room, the behaviour may have been vicariously reinforced and so Grace is more likely to imitate her behaviour. 
+
+###### Q3: Read the article below. ```Research by social learning theorists into gender development has shown that children learn many of their gender-related behaviours from others. There are many examples of children copying the behaviour of adults, such as a young girl trying on her mother’s make-up. Of course, there are many reasons why some adult behaviours or actions seen by children are not copied.``` Briefly explain what social learning theorists mean by *modelling* in relation to gender development. Refer to the article above in your answer.
+
+In social learning theory, modelling
