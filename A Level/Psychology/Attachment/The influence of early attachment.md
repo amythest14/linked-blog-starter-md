@@ -1,0 +1,1 @@
+According to Bowlby's continuity hypothesis, early attachments impact how people form relationships later in life.
