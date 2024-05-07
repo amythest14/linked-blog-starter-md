@@ -98,4 +98,6 @@ $\frac{A(x-1)}{x-2}+\frac{B(x-2)}{x-1}=\frac{A(x-1)+B(x-2)}{(x-2)(x-1)}$
 $A(x-1) + B(x-2) = 3x-5$
  easy peasy
 
+$s=ut+\frac{1}{2}at^2$
+
 

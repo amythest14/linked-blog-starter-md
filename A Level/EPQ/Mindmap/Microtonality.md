@@ -3,3 +3,8 @@ Microtonality is the use of intervals smaller than a semitone in music. It is of
 
 
 [[Sound]]
+[[Instruments]]
+[[Better JI approximations]]
+[[New Triads]]
+[[Inaccessibility]]
+[[Notation]]
