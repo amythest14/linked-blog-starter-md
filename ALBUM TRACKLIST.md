@@ -142,10 +142,11 @@ so baby do what you must
 you'll go back to your life
 i'll go back to dust
 
-i got quietly upset when i went away for two days and you didn’t say you missed me
-i get quietly upset for every time where if we were together it felt like you’d kiss me
+i got upset when i went away and you didn’t say you missed me
+i get quietly upset for every time where it felt like you’d kiss me
 i get quietly upset when you reference private conversations with mutual friends because i’m scared you’re getting closer to them than me
-i get quietly upset when you bring your new situationship up
+i get upset that it isn't all i thought it'd be
+i get quietly upset when you bring them up
 i get quietly upset when you don’t bring them up because you know it’ll make me upset
 i get quietly upset when you don’t laugh at my jokes
 i made them for you
